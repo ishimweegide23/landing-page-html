@@ -1,5 +1,7 @@
 # landing-page-html
 ```html
+<span style="color:blue;"</span><span style="color:red;"</span> <span style="color:black;"</span> </p>``
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
